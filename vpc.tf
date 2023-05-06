@@ -1,4 +1,4 @@
-module "Google network module" {
+module "Google_network_module" {
     source  = "terraform-google-modules/network/google"
     version = "3.4.0"
 
