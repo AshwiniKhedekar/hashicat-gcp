@@ -3,7 +3,7 @@ module "Google_network_module" {
     version = "3.4.0"
 
     project_id   = var.project
-    network_name = "demo-vpc"
+    network_name = "demo-vpc2"
     routing_mode = "GLOBAL"
 
     subnets = [
